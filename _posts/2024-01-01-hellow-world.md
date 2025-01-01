@@ -1,8 +1,9 @@
 ---
-title: "Hellow World"
+title: Hellow World
 date: 2024-01-01
-category: ["Hello World"]
-tag: ["Hello World"]
+categories: ["Hello World"]
+tags: ["Hello World"]
+---
 
 # Hello World
 
